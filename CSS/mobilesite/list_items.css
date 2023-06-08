@@ -1,0 +1,46 @@
+/* **********LIST ITEMS********** */
+dl {
+  margin-top: 20px;
+  /* border: 3px black double; */
+  padding: 10px;
+}
+dt,
+dd {
+  margin: 10px;
+  font-size: 1.3em;
+}
+dt {
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+dd {
+  padding-left: 30px;
+}
+
+nav {
+  /* background-color: bisque; */
+  width: 100%;
+  margin: 0 auto;
+  /* margin-top: 30px; */
+  padding: 2px;
+}
+
+ul {
+  margin-left: -1.6em;
+  width: 100%;
+  /* margin-top: 2em; */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  /* height: 120px; */
+}
+li {
+  list-style: none;
+  border-radius: 25px;
+  width: 100%;
+  /* width: 200px; */
+  margin: 0 auto;
+  text-align: center;
+  /* user-select: none; */
+}

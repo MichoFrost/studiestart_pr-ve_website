@@ -1,0 +1,25 @@
+.components__main-grid {
+  gap: 2em;
+}
+
+/* .components__main-grid img {
+  min-height: 200px;
+  width: auto;
+} */
+
+/* .components__main-grid article img:last-child {
+  justify-content: flex-end;
+  align-items: flex-end;
+} */
+
+
+
+.components__main-grid_important {
+  
+}
+.components__main-grid_cooling {
+
+}
+.components__main-grid_mother{
+
+}

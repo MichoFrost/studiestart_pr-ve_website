@@ -1,0 +1,22 @@
+/*INDEX LAYOUT*/
+
+.frontpage_computers div,
+.frontpage_stats {
+  gap: 1em;
+}
+
+/* .frontpage_stats img {
+  grid-column: 1/2;
+  grid-row: 1/3;
+} */
+.frontpage_stats_img {
+  grid-column: 1/2;
+  grid-row: 1/3;
+  align-self: center;
+  justify-self: center;
+}
+
+.frontpage_computers div * {
+  align-self: center;
+}
+

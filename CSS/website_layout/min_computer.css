@@ -1,0 +1,16 @@
+/*MIN COMPUTER LAYOUT*/
+
+.minComputer_Type div,
+.gallery__image-section {
+  gap: 2em;
+}
+.minComputer_Type img {
+  grid-column: 1/2;
+}
+.minComputer_Type h2,
+.minComputer_Type p {
+  grid-column: 2/3;
+}
+
+
+

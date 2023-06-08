@@ -1,0 +1,13 @@
+.gallery__topText  {
+  margin-bottom: 2em;
+}
+/* .gallery__topText p {
+  grid-column: 2/3;
+} */
+
+@media (min-width: 650px) {
+  figcaption {
+    text-align: left;
+    margin-left: 2em;
+  }
+}

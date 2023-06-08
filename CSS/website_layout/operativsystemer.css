@@ -1,0 +1,17 @@
+.op-sys__main-grid {
+  gap: 2em;
+}
+
+.op-sys__windows {
+  grid-row: 2/3;
+}
+
+.op-sys__tablets {
+  grid-column: 2/3;
+  grid-row: 1/3;
+  align-self: center;
+}
+
+.op-sys__main-grid div img {
+  align-self: center;
+}
